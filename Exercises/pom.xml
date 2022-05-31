@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.ing</groupId>
-  <artifactId>Brackets</artifactId>
+  <artifactId>Exercises</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Brackets</name>
+  <name>Exercises</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
